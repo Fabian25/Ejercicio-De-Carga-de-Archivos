@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CargaDeArchivos", "CargaDeArchivos\CargaDeArchivos.dtproj", "{09CCE48A-CCEC-4F72-A3D9-C2DFD64E0DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CCE48A-CCEC-4F72-A3D9-C2DFD64E0DF5}.Development|Default.ActiveCfg = Development
+		{09CCE48A-CCEC-4F72-A3D9-C2DFD64E0DF5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9850BD3-4D55-41C0-8417-09141C91F046}
+	EndGlobalSection
+EndGlobal
